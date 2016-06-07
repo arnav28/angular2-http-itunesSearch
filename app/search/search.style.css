@@ -1,0 +1,25 @@
+input:focus{
+    outline:none; 
+}
+.search-form{
+    padding-left: 20px;
+}
+.mdl-card__title{
+    padding-bottom: 0;
+}
+.mdl-card__title-text{
+    font-size: 18px;
+    font-weight: 400;
+}
+.mdl-card__supporting-text{
+    padding-top: 0;
+}
+.mdl-card__supporting-text > h6{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.no-results > h6{
+    color: #1F1F1F;
+    align-items: center;
+    justify-content: center;
+}
